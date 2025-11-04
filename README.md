@@ -1,6 +1,6 @@
 ## ⚡ linux admin
 
-> ** mahdiyar  **
+> **mahdiyar**
 
 ---
 
